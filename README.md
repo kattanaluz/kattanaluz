@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kattanaluz
-- 👀 I’m interested in cooking, art and coding. 
+- 👀 I’m interested in cooking, art, tech, and coding. 
 - 🌱 I’m currently learning London.
 - 💞️ I’m bootcamper of School of Code. 
 - 📫 How to reach me kattanaluz@gmail.com.
