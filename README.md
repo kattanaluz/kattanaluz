@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kattanaluz.
-- 👀 I’m interested in cooking, art, travelling, tech, and coding. 
-- 🌱 I’m brazilian currently learning London/UK.
-- 💞️ I’m bootcamper of School of Code. 
+- 💡 I’m interested in cooking, art, travelling, tech, and coding. 
+- 📍 I’m brazilian currently learning London/UK.
+- 👩🏻‍💻 I’m bootcamper of School of Code. 
 - 📫 How to reach me kattanaluz@gmail.com.
 
 <!---
