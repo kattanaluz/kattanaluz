@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kattanaluz.
 - 👩🏻‍💻 I am studying and practicing to become a front-end developer. Currently, I’m bootcamper of @SchoolOfCode. 
 - 💡 I’m interested in cooking, art, travelling, tech, and coding. 
-- 📍 I’m brazilian currently learning London/UK.
+- 📍 I’m currently living London/UK.
 - 📫 How to reach me kattanaluz@gmail.com.
 - 👇 Here is available further information about my activities on gitHub, programming languages I use to work with, and personal projects. 
 
