@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kattana Luz and I am former Lawyer.  
-- 👩🏻‍💻 I am currently a full stack Javascript bootcamper on the School of Code Bootcamp. I am looking forward to becoming a Front-end Developer.
+- 👩🏻‍💻 I am currently a full stack Javascript bootcamper on the School of Code Bootcamp. I am looking forward to becoming a front-end developer.
 - 💡 I’m interested in tech and coding. Also, I love cooking, art, and travelling. 
-- 📍 I’m currently living London/UK.
+- 📍 I’m currently living London.
 - 📫 How to reach me kattanaluz@gmail.com.
 - 👇 Here is available further information about my activities on gitHub, programming languages I use to work with, and personal projects. 
 
