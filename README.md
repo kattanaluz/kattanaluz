@@ -2,7 +2,6 @@
 - 👩🏻‍💻 I am currently a full stack JavaScript bootcamper on the School of Code Bootcamp. I am looking forward to becoming a front-end developer.
 - 💡 I am interested in tech and coding. Also, I love cooking, art, and travelling. 
 - 📍 I am currently based in London.
-- 📫 How to reach me kattanaluz@gmail.com.
 - 👇 Here is available further information about my activities on gitHub, programming languages I use to work with, and personal projects. 
 <br>
 <div align="center">
